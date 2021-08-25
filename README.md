@@ -25,16 +25,24 @@ Run "index.html" file.
 
 # Directory Structure Description
 ```
-|-index.html
-|-message.html
-|-article.html
-|-album.html
-| |-js
-|   |-jquery=1.4.min
-| |-image
-|   |-All kind of pictures
-| |-css
-|   |-rili.css
-|   |-style.css
-|
+├── album.html
+├── article.html
+├── css
+│   ├── rili.css
+│   └── style.css
+├── images
+│   ├── SelfIntro.jpeg
+│   ├── battle.png
+│   ├── contact.jpeg
+│   ├── datu.jpg
+│   ├── dorm.jpeg
+│   ├── mine.png
+│   ├── school.jpeg
+│   ├── school2.jpg
+│   ├── travel.png
+│   └── travel2.png
+├── index.html
+├── js
+│   └── jquery-1.4.min.js
+├── message.html
 ```
